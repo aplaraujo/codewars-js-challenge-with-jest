@@ -1,0 +1,23 @@
+{
+  "name": "codewars-js-challenge-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplaraujo/codewars-js-challenge-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplaraujo/codewars-js-challenge-with-jest/issues"
+  },
+  "homepage": "https://github.com/aplaraujo/codewars-js-challenge-with-jest#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

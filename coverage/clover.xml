@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1699307210409" clover="3.2.0">
-  <project timestamp="1699307210409" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
-    <file name="create-phone-number.js" path="/Users/anapaulalopesaraujo/Documents/git/codewars-js-challenge-with-jest/src/strings/create-phone-number.js">
-      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+<coverage generated="1699307649742" clover="3.2.0">
+  <project timestamp="1699307649743" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="17" coveredelements="17" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="highest-and-lowest.js" path="/Users/anapaulalopesaraujo/Documents/git/codewars-js-challenge-with-jest/src/strings/highest-and-lowest.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="2" type="stmt"/>
+      <line num="2" count="15" type="stmt"/>
       <line num="3" count="2" type="stmt"/>
-      <line num="4" count="20" type="stmt"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

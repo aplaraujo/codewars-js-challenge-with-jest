@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1699311619375" clover="3.2.0">
-  <project timestamp="1699311619376" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
-    <file name="get-the-middle-characters.js" path="/Users/anapaulalopesaraujo/Documents/git/codewars-js-challenge-with-jest/src/strings/get-the-middle-characters.js">
-      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+<coverage generated="1699315873305" clover="3.2.0">
+  <project timestamp="1699315873306" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="10" coveredelements="10" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="mumbling.js" path="/Users/anapaulalopesaraujo/Documents/git/codewars-js-challenge-with-jest/src/strings/mumbling.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="4" type="stmt"/>
-      <line num="3" count="4" type="stmt"/>
-      <line num="4" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="7" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="15" type="stmt"/>
+      <line num="7" count="15" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
